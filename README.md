@@ -17,6 +17,8 @@ Please change the python executables by changing "python2dir" and "python3dir".
 Number of articles to generate is set using "numFilesToGenerate". Default is 20.
 The classifier only assigns to sections based on the confidence. The min confidence can be set using "cfThreshold" parameter.
 
+Note: The requirement for both python distributions can be avoided and I will modify the code soon. 
+
 ****************************************************************************************************************
 ####IMPORTANT: DO THIS BEFORE YOU PROCEED#####
 4. System Requirements:
@@ -41,3 +43,5 @@ Run: mvn install after the libs are included.
 **Citation**
 If you use any components of this code, please cite:
 Siddhartha Banerjee and Prasenjit Mitra, "WikiKreator: Improving Wikipedia Stubs Automatically", *In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL) and the 7th International Joint Conference on Natural Language Processing of the AFNLP, Beijing, China, July 2015* 
+
+Please note that all the code is research code, and hence is provided here with any real gurantees. However, I can answer most questions on the code. Shoot me an email on sidd2006@gmail.com. 

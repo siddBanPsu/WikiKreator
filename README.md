@@ -1,4 +1,4 @@
-####**WikiKreator Project**####
+--------------------	**WikiKreator Project ** -------------------------
 
 1. The program allows generation of Content for Wikipedia articles. 
 

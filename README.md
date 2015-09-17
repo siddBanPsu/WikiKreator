@@ -1,4 +1,4 @@
---------------------	**WikiKreator Project ** -------------------------
+<h1 align=center>WikiKreator Project</h1>
 
 1. The program allows generation of Content for Wikipedia articles. 
 

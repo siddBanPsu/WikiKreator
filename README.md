@@ -38,6 +38,8 @@ Run: mvn install after the libs are included.
 	iv. Look into Results folder once the text files are generated -- Results/GeneratedOutput/"categoryToGenerate"/system/
 	v. The directory structure is such that it can be easily used for ROUGE evaluation.(system/models) [ROUGE is not shipped with this software]
 
+Note: Please also refer to the IJCAI paper code for a better and faster implementation of the abstractive summarization  module used in this paper: https://github.com/siddBanPsu/AbTextSumm
+
 **Citation**
 If you use any components of this code, please cite:
 Siddhartha Banerjee and Prasenjit Mitra, "WikiKreator: Improving Wikipedia Stubs Automatically", *In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL) and the 7th International Joint Conference on Natural Language Processing of the AFNLP, Beijing, China, July 2015* 

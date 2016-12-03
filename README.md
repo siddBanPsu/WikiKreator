@@ -44,4 +44,4 @@ Note: Please also refer to the IJCAI paper code for a better and faster implemen
 If you use any components of this code, please cite:
 Siddhartha Banerjee and Prasenjit Mitra, "WikiKreator: Improving Wikipedia Stubs Automatically", *In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL) and the 7th International Joint Conference on Natural Language Processing of the AFNLP, Beijing, China, July 2015* 
 
-Please note that all the code is research code, and hence is provided here with any real gurantees. However, I can answer most questions on the code. Shoot me an email on sidd2006@gmail.com. 
+Please note that all the code is research code, and hence is provided here with any real gurantees. 

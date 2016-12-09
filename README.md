@@ -38,7 +38,7 @@ Run: mvn install after the libs are included.
 	iv. Look into Results folder once the text files are generated -- Results/GeneratedOutput/"categoryToGenerate"/system/
 	v. The directory structure is such that it can be easily used for ROUGE evaluation.(system/models) [ROUGE is not shipped with this software]
 
-Note: Please also refer to the IJCAI paper code for a better and faster implementation of the abstractive summarization  module used in this paper: https://github.com/siddBanPsu/AbTextSumm
+
 
 **Citation**
 If you use any components of this code, please cite:
